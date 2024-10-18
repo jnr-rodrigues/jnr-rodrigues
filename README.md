@@ -1,5 +1,6 @@
-## Yaeh! Me chamo Carlos Júnior.
-Atualmente trabalho como Analista de Testes Pleno no time de Digital - Automações. Estudo ciência da computação na Universidade Estadual da Paraíba!
+## Opa! Me chamo Carlos (Júnior) Rodrigues.
+Atualmente trabalho como <b>Analista de Testes Pleno</b> no time de <b>Digital - Automações</b>. Estudo ciência da computação na Universidade Estadual da Paraíba!
+Tenho experiências com programação em JavaScript, Python, Web, API e entre outras coisas mais.
 
 <div>
   <a href="https://www.linkedin.com/in/jnrrodrigues/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
