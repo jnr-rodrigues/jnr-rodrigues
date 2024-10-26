@@ -1,5 +1,5 @@
 ## Opa! Me chamo Carlos (Júnior) Rodrigues.
-Atualmente trabalho como <b>Analista de Testes Pleno</b> no time de <b>Digital - Automações</b> da <b>AeC Contact Center</b>. Estudo ciência da computação na Universidade Estadual da Paraíba (UEPB)!
+Atualmente trabalho como <b>Analista de Qualidade de Software Pleno</b> no time de <b>Digital - Automações</b> da <b>AeC Contact Center</b>. Estudo ciência da computação na Universidade Estadual da Paraíba (UEPB)!
 Tenho experiências com programação em JavaScript, Python, Web, API e entre outras coisas mais.
 
 <div>
