@@ -22,5 +22,9 @@ Atualmente trabalho como **Analista de Qualidade de Software Pleno** no time de 
 <br><br>
 Others:
 <div>
-  <a id="linkedIn-user" href="https://www.linkedin.com/in/jnrrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a id="linkedIn-user" href="https://www.linkedin.com/in/jnrrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discordapp.com/users/506243391433080832/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
 </div>
+
