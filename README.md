@@ -20,9 +20,10 @@ Atualmente trabalho como **Analista de Qualidade de Software Pleno** no time de 
 - **Monitoring Tools:** Kibana, Elastic.  
 
 <br><br>
-**Note:** All the projects I work on are managed through Azure DevOps or AWS. My GitHub is used exclusively for private individual projects.
-**Observação:** Todos os projetos em que atuo são gerenciados por meio do Azure DevOps ou AWS. Meu GitHub é utilizado exclusivamente para projetos individuais privados.
+<b>Note:</b> All the projects I work on are managed through Azure DevOps or AWS. My GitHub is used exclusively for private individual projects.<br>
+<b>Observação:</b> Todos os projetos em que atuo são gerenciados por meio do Azure DevOps ou AWS. Meu GitHub é utilizado exclusivamente para projetos individuais privados.
 <br><br>
+
 Others:
 <div>
   <a id="linkedIn-user" href="https://www.linkedin.com/in/jnrrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
